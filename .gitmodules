@@ -1,6 +1,9 @@
 [submodule "slides"]
 	path = slides
 	url = https://github.com/xml3d/xml3d-slides
+	branch = gh-pages
+
 [submodule "examples"]
 	path = examples
 	url = https://github.com/xml3d/xml3d-examples
+	branch = gh-pages
